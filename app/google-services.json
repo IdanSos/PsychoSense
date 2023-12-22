@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992180281306",
+    "project_id": "psychosense-c09f2",
+    "storage_bucket": "psychosense-c09f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992180281306:android:6c5110417ec264edb26ae3",
+        "android_client_info": {
+          "package_name": "com.example.psychosense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfRHippcNIJ01kVCUMuVHKAtF6j76KcRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
